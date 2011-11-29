@@ -1,0 +1,19 @@
+syntax: glob
+
+bin
+target
+project
+.project
+.settings
+.classpath
+.idea
+.DS_Store
+
+syntax: regexp
+^logs$
+.*var$
+.*iml$
+.*ipr$
+.*iws$
+.*jtl$
+.*log$
