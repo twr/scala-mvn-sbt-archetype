@@ -2,7 +2,6 @@ syntax: glob
 
 bin
 target
-project
 .project
 .settings
 .classpath
