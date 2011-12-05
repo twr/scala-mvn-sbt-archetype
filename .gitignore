@@ -6,6 +6,7 @@ target
 .settings
 .classpath
 .idea
+.idea_modules
 .DS_Store
 
 syntax: regexp
