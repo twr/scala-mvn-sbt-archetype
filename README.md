@@ -1,9 +1,11 @@
 Provides basic setup for scala project. 
 
 The approach taken is to make the transition from typical java setup (maven, junit/hamcrest, mockito) as easy as possible.
+
 sbt is using maven pom file to resolve dependencies.
 
 This project is configured to use:
+
 * java 1.6
 * scala 2.9.1
 * junit 4.10
